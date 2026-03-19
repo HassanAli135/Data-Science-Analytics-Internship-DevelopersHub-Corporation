@@ -4,7 +4,7 @@ This repository contains all five tasks completed as part of the Data Science &a
 
 ***Tasks Overview***
 
-Task 1 — Exploring and Visualizing a Simple Dataset
+# Task 1 — Exploring and Visualizing a Simple Dataset
 Dataset: Iris Dataset
 Objective: Understand how to read, summarize, and visualize a structured dataset using Python.
 Approach:
@@ -12,9 +12,9 @@ Approach:
 Loaded and inspected the dataset using .shape, .info(), and .describe()
 Created scatter plots, histograms, and box plots to analyze feature distributions and relationships
 
-Key Libraries: pandas, matplotlib, seaborn
+**Key Libraries: pandas, matplotlib, seaborn**
 
-Task 2 — Credit Risk Prediction
+# Task 2 — Credit Risk Prediction
 Dataset: Loan Prediction Dataset (Kaggle)
 Objective: Predict whether a loan applicant is likely to default on a loan.
 Approach:
@@ -26,7 +26,7 @@ Evaluated performance using accuracy score and confusion matrix
 
 Key Libraries: pandas, scikit-learn, seaborn, matplotlib
 
-Task 3 — Customer Churn Prediction (Bank Customers)
+# Task 3 — Customer Churn Prediction (Bank Customers)
 Dataset: Churn Modelling Dataset
 Objective: Identify customers who are likely to leave the bank.
 Approach:
@@ -38,7 +38,7 @@ Analyzed feature importance to understand the key drivers of churn
 
 Key Libraries: pandas, scikit-learn, seaborn, matplotlib
 
-Task 4 — Predicting Insurance Claim Amounts
+# Task 4 — Predicting Insurance Claim Amounts
 Dataset: Medical Cost Personal Dataset (Kaggle)
 Objective: Estimate medical insurance charges based on personal attributes such as age, BMI, smoking status, and region.
 Approach:
@@ -52,7 +52,7 @@ Results:
 MetricValueMAE(see notebook)RMSE(see notebook)
 Key Libraries: pandas, numpy, scikit-learn, seaborn, matplotlib
 
-Task 5 — Personal Loan Acceptance Prediction
+# Task 5 — Personal Loan Acceptance Prediction
 Dataset: Bank Marketing Dataset (UCI Machine Learning Repository)
 Objective: Predict which customers are likely to accept a personal loan offer.
 Approach:
@@ -81,6 +81,5 @@ Run all cells using Runtime → Run All
 All required libraries (pandas, numpy, matplotlib, seaborn, scikit-learn) come pre-installed in Google Colab — no additional setup needed.
 
 
-👤 Author
-Muhammad Hasan
-Data Science & Analytics Intern — DevelopersHub Corporation
+**Muhammad Hasan**
+**Data Science & Analytics Intern — DevelopersHub Corporation**
